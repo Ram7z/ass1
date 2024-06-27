@@ -1,6 +1,6 @@
 //armstrong⚓//
 fun main() {
-    val number = 371
+    val number = 153
     var originalNumber = number
     var result = 0
 
