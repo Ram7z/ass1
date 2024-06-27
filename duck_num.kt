@@ -1,5 +1,5 @@
 fun main() {
-    val num = 3210 
+    val num = 6302
     var n = num
     var isDuck = false
 
